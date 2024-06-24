@@ -1,2 +1,2 @@
 # edgesSubPix
-# Subpixel processing of polynomial interpolation
+  Subpixel processing of polynomial interpolation
